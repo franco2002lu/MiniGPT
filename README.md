@@ -1,2 +1,0 @@
-# MiniGPT
-ChatGPT clone
